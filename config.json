@@ -1,0 +1,11 @@
+﻿{
+    "rollback_available":  false,
+    "mandatory":  false,
+    "build_number":  "5",
+    "release_notes":  "Bug fixes and improvements",
+    "target_version":  "1.0.0",
+    "installer_url":  "https://github.com/AbrahemGh1/maawedakInstaller/releases/download/v1.0.0/FlarelineCRMInstaller.exe",
+    "min_supported_version":  "1.0.0",
+    "force_rollback":  false,
+    "hash":  "cde974a637421eda97216c2e097b3a6a3b81c398f587051a09f470584fd89fe0"
+}
