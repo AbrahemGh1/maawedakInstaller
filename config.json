@@ -7,5 +7,5 @@
     "installer_url":  "https://github.com/AbrahemGh1/maawedakInstaller/releases/download/v1.0.0/FlarelineCRMInstaller.exe",
     "min_supported_version":  "1.0.0",
     "force_rollback":  false,
-    "hash":  "c3cacad0332c77daba12404e6ccd667d03f74d186a0adb5524b28b5b69beb42a"
+    "hash":  "d346d94a2eb29b7215395555bc846821427460ca5e89c19a7568d48956274a94"
 }
