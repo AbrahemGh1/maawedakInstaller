@@ -1,7 +1,7 @@
 ﻿{
     "platforms":  {
                       "windows":  {
-                                      "hash":  "38528f023fea2cc8c6fd2278e346531c72b741fae563be30d2c179ced0b4818f",
+                                      "hash":  "89b5de4c1e87404a7466857bb62cffb7a1caaedb938a51ab49fca83314c91396",
                                       "rollback_version":  "0.0.0",
                                       "force_rollback":  false,
                                       "update_type":  "forced",
