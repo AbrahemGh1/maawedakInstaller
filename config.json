@@ -1,15 +1,15 @@
 ﻿{
     "platforms":  {
                       "windows":  {
-                                      "hash":  "d3686c7cabd6b0117104c2a0570c13b5dd71f65d28a5dfca5b1b2da74d5b6ea7",
+                                      "hash":  "f9555d401d13e437303468a1cc96ae38538819da3648d3e98db6c600ba31f550",
                                       "rollback_version":  "1.0.0",
                                       "force_rollback":  false,
                                       "update_type":  "forced",
                                       "release_notes":  "â€¢ Bug fixes and performance improvements",
                                       "min_supported_version":  "1.0.0",
                                       "rollback_available":  false,
-                                      "download_url":  "https://github.com/AbrahemGh1/maawedakInstaller/releases/download/v1.0.1/FlarelineCRMInstaller.exe",
-                                      "target_version":  "1.0.1"
+                                      "download_url":  "https://github.com/AbrahemGh1/maawedakInstaller/releases/download/v0.0.1/FlarelineCRMInstaller.exe",
+                                      "target_version":  "0.0.1"
                                   }
                   }
 }
