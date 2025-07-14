@@ -1,7 +1,7 @@
 ﻿{
     "platforms":  {
                       "windows":  {
-                                      "hash":  "1941b74331886b65a142afc1f0fc66bbaf7338907b9b2682f0f115783b39976c",
+                                      "hash":  "b0052949bb96484c19ae2dffc4bee9f5d4e5c224e9de419536f9b590753460be",
                                       "rollback_version":  "0.0.0",
                                       "force_rollback":  false,
                                       "update_type":  "forced",
@@ -10,6 +10,7 @@
                                       "rollback_available":  false,
                                       "download_url":  "https://github.com/AbrahemGh1/maawedakInstaller/releases/download/v0.0.3/FlarelineCRMInstaller.exe",
                                       "target_version":  "0.0.3"
+
                                   }
                   }
 }
